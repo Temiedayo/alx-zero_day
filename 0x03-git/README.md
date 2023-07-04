@@ -1,2 +1,1 @@
-My second readme
-Today is a new day
+Today is a new day and it's beautiful
