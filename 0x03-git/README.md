@@ -1,1 +1,1 @@
-Today is a new day and it's beautiful
+Today is a new day and it's beautiful.
